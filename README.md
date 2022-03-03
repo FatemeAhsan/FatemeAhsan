@@ -7,4 +7,5 @@ I am Fateme Ahsan
 
 - 🌱 Intersted in programming
 
-- 📫 How to reach me: [![](https://img.shields.io/badge/-outlook-greenyellow?style=for-the-badge&logo=outlook)](mailto:ftmahsan@outlook.com)
+- 📫 How to reach me: 
+    [![](https://img.shields.io/badge/-outlook-greenyellow?style=for-the-badge&logo=outlook)](mailto:ftmahsan@outlook.com)
