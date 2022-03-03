@@ -9,8 +9,12 @@ B.Sc student studying Computer Engineering major at Shahid Beheshti University
 
 - 🌱 Intersted in programming
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](	https://img.shields.io/badge/Java-e87b27?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![](	https://img.shields.io/badge/html-26054a?style=for-the-badge&logo=javascript&logoColor=white)](https://html.com/)
+[![](	https://img.shields.io/badge/javascript-74a6e?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![](	https://img.shields.io/badge/go-08b3bf?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fateme-Ahsan)](https://github.com/Fateme-Ahsan/github-readme-stats)
 
