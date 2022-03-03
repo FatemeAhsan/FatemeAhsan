@@ -9,4 +9,4 @@ I am Fateme Ahsan
 
 - 📫 How to reach me: 
 
-    [![](https://img.shields.io/badge/-outlook-greenyellow?style=for-the-badge&logo=outlook)](mailto:ftmahsan@outlook.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![](https://img.shields.io/badge/-outlook-blue?style=for-the-badge&logo=outlook)](mailto:ftmahsan@outlook.com)
