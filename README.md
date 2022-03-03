@@ -8,4 +8,4 @@ I am Fateme Ahsan
 - 🌱 Intersted in programming
 - 📫 How to reach me: ftmahsan@outlook.com
 
-[![](https://img.shields.io/badge/-outlook-greenyellow?style=for-the-badge&logo=outlook)](mailto:ftmahsan@outlook.com@outlook.com)
+      [![](https://img.shields.io/badge/-outlook-greenyellow?style=for-the-badge&logo=outlook)](mailto:ftmahsan@outlook.com)
