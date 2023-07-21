@@ -1,5 +1,5 @@
-### Hi, I'm Fateme
-Computer Engineer
+### Hi there
+
 
 ## Languages and Tools
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -14,9 +14,9 @@ Computer Engineer
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeAhsan&theme=radical)](https://github.com/FatemeAhsan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehAhsan&theme=radical)](https://github.com/FatemeAhsan/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatemeAhsan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatemehAhsan&show_icons=true&theme=radical)
 
 
